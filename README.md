@@ -1,5 +1,8 @@
-# omisego price gnome ticket 
+# omisego gnome price ticker
 
-Gnome 3 desktop ticker for omisego price with Python and argos. Rename to omisego.1r.60s.py and put in ~/.config/argos
+Get omisego price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/omisego-price-gnome-ticket/](https://codesharedot.github.io/omisego-price-gnome-ticket/)
 
-https://pythonbasics.org
+omisego price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to omisego.1r60s.py and put in ~/.config/argos
